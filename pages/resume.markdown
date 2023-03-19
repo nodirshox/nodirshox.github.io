@@ -3,7 +3,6 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-
 <style type="text/css">
   strong {
     font-weight: 600;
