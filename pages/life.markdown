@@ -1,0 +1,30 @@
+---
+layout: page
+title: Story of my life
+permalink: /life/
+---
+<style type="text/css">
+  strong {
+    font-weight: 600;
+  }
+  hr {
+    margin-bottom: 10px;
+  }
+
+  li {
+    line-height: 30px;
+  }
+</style>
+
+---
+I am going to log my life in this page. In future, when I look back my life, I want to how I spent the adventure of life.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W-TE_Ys4iwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+1998 - I was born
+
+1998-2003 - I can’t remember those times. Since I was a baby.
+
+2003-205 - I remember that I went to kinder garden. Me and my father going to kindergarten on a walk. He bought me candy. My elder brother also wen to the same kindergarten called “Qaldirg’och”. But, he was in another group. My family lived 4th floor of the apartment which was the highest one. I played near this building with my friends. I learned how to drive a bicycle. I also studied 0-level at school. It was one of the sweet and awesome memory!
+
+2005, September - My family moved into the house. After that, I started to attend school for the first time. I met lots of friends and classmates.
