@@ -25,6 +25,13 @@ I am going to log my life in this page. In future, when I look back my life, I w
 
 1998-2003 - I can’t remember those times. Since I was a baby.
 
-2003-205 - I remember that I went to kinder garden. Me and my father going to kindergarten on a walk. He bought me candy. My elder brother also wen to the same kindergarten called “Qaldirg’och”. But, he was in another group. My family lived 4th floor of the apartment which was the highest one. I played near this building with my friends. I learned how to drive a bicycle. I also studied 0-level at school. It was one of the sweet and awesome memory!
+2003-2005 - I remember that I went to kinder garden. Me and my father going to kindergarten on a walk. He bought me candy. My elder brother also wen to the same kindergarten called “Qaldirg’och”. But, he was in another group. My family lived 4th floor of the apartment which was the highest one. I played near this building with my friends. I learned how to drive a bicycle. I also studied 0-level at school. It was one of the sweet and awesome memory!
 
 2005, September - My family moved into the house. After that, I started to attend school for the first time. I met lots of friends and classmates.
+
+2005-2009 - I studied 1-4 classes. I had lots of passion for getting lots of grades per week. We had a competition for getting the maximum number of grades.
+
+2010-2012 - Attended 5-6 classes. I learned math and participated math competition among schools in our city.
+
+---
+continued...
