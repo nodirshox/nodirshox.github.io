@@ -33,5 +33,13 @@ I am going to log my life in this page. In future, when I look back my life, I w
 
 2010-2012 - Attended 5-6 classes. I learned math and participated math competition among schools in our city.
 
+2012-2015 - Attended 7-9 classes in different school. I learned the English language in this school. I met a bunch of new classmates.
+
+2015-2017 - Attended college. I also studied extra courses like English, math, and physics. I prepared for university exams.
+
+2017 September - I got accepted to Inha University in Tashkent. I started learning Computer Science fundamentals.
+
+2019 May - 2019 September - I went to U.S.A with Work and Travel program. It was my first going to foreign country. I spend summer at Bolton Landing, New York.
+
 ---
 continued...
