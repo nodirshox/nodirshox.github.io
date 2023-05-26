@@ -41,5 +41,13 @@ I am going to log my life in this page. In future, when I look back my life, I w
 
 2019 May - 2019 September - I went to U.S.A with Work and Travel program. It was my first going to foreign country. I spend summer at Bolton Landing, New York.
 
+2020 September - 2021 June - I started my professional Software engineering career in Udevs company. Worked together with fantastic people.
+
+2021 May - Finished bachelors degree at Inha.
+
+2021 June - 2022 March - I started working at Epam System company.
+
+2022 May - 2023 February - I started studying for master's degre at MIU. I lived at Fairfield, Iowa state in U.S.A.
+
 ---
 continued...
