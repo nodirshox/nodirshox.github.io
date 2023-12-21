@@ -13,4 +13,4 @@ Hobbiylarim yangi texnologiyalarga oid maqola va videolar ko’rishni yoqtiraman
 
 *2019-yil “USA”ga sayohatdan estalik*
 
-[Havola](https://nodirbek.uz/2019/10/men-haqimda/)
+[Havola](https://nodirbek.uz/2019/10/men-haqimda/){:target="_blank"}

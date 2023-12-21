@@ -19,7 +19,7 @@ Mana quyidagi misollarni ko’rib chiqamiz.
 
 Bunday reklama rasmlar orqali mijoz yoki internet foydalanuvchilarni **jalb etish qiyin**. Bundan chiroyli va sifatli reklama yoki boshqa grafikli rasmlar tayyorlash oson.
 
-[Canva.com](https://canva.com) saytining qulayliklari quyidagi turdagi grafik rasmlar tayyorlash mumkin:
+[Canva.com](https://canva.com){:target="_blank"} saytining qulayliklari quyidagi turdagi grafik rasmlar tayyorlash mumkin:
 
 - Prezintatsiya
 - Blog banneri
@@ -35,7 +35,7 @@ Bunday reklama rasmlar orqali mijoz yoki internet foydalanuvchilarni **jalb etis
 - E’lon
 - va turli xil rasmlar
 
-[Canva.com](https://canva.com) saytiga kiramiz va registratsiya qilamiz.
+[Canva.com](https://canva.com){:target="_blank"} saytiga kiramiz va registratsiya qilamiz.
 
 ![canva.com](/assets/2019-10-26-reklama-tayyorlash/canva-reg.jpg)
 
@@ -49,9 +49,9 @@ Saytdan registratsiyadan o’tib olganimizdan so’ng, asosiy sahifaning chap yu
 
 *Canva.com saytidan lavha*
 
-Qolgani juda oson. Ushbu saytdan tayyorlagan rasminingizni taklif etilgan formatda yuklab olishingiz mumkin. Githubda [Student Pack](https://education.github.com/pack) orqali ushbu saytdan Pro tarifini 1 yil ishlatish mumkin.
+Qolgani juda oson. Ushbu saytdan tayyorlagan rasminingizni taklif etilgan formatda yuklab olishingiz mumkin. Githubda [Student Pack](https://education.github.com/pack){:target="_blank"} orqali ushbu saytdan Pro tarifini 1 yil ishlatish mumkin.
 
-Saytning mobil versiyasi ham mavjud. [Play Market](https://play.google.com/store/apps/details?id=com.canva.editor) va [App Store](https://apps.apple.com/us/app/canva-graphic-design-creator/id897446215#?platform=iphone) dan ham yuklab olish mumkin.
+Saytning mobil versiyasi ham mavjud. [Play Market](https://play.google.com/store/apps/details?id=com.canva.editor){:target="_blank"} va [App Store](https://apps.apple.com/us/app/canva-graphic-design-creator/id897446215#?platform=iphone){:target="_blank"} dan ham yuklab olish mumkin.
 
 Men tayyorlagan turli rasmlarni ko’rishingiz mumkin.
 
@@ -67,4 +67,4 @@ Men tayyorlagan turli rasmlarni ko’rishingiz mumkin.
 
 *Fitnes zal uchun logotip*
 
-[Havola](https://nodirbek.uz/2019/10/qanday-qilib-ijtimoiy-tarmoqlar-uchun-chiroyli-reklama-rasm-tayyorlash-mumkin/)
+[Havola](https://nodirbek.uz/2019/10/qanday-qilib-ijtimoiy-tarmoqlar-uchun-chiroyli-reklama-rasm-tayyorlash-mumkin/){:target="_blank"}
