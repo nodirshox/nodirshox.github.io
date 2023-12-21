@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Men haqimda"
-description: "Men haqimda"
 categories: ["about"]
 permalink: /men-haqimda
 ---
@@ -10,7 +9,7 @@ Mening ismim **Nodirbek**. Hozirda oddiy talabaman. Kompyuter va axborot texnolo
 
 Hobbiylarim yangi texnologiyalarga oid maqola va videolar ko’rishni yoqtiraman. Men ushbu blogimda turli hil mavzularda foydali maqolalar va ma’lumotlar berishga harakat qilaman.
 
-![2019-yil “USA”ga sayohatdan estalik](/assets/usa-2019.jpg)
+![2019-yil “USA”ga sayohatdan estalik](/assets/2019-10-25-men-haqimda/usa-2019.jpg)
 
 *2019-yil “USA”ga sayohatdan estalik*
 
