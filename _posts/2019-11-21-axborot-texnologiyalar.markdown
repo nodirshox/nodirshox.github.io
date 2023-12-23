@@ -46,3 +46,5 @@ Axborot texnologiyalar sezilarli tarzda rivojlanmoqda desak bu televideniyalarda
 ---
 
 Maqolalani yakunida axborot texnologiya bilan yanada tezroq rijovlashgan davlatlar qatoriga qo’shilish imkon borligini, yoshlarni dasturlash va kompyuter sohasida qiziqishlarini oshirish kerakligini aytmoqchiman. Zora, yaqin kunlarda o’zbek Stiv Jobsi yoki Mark Zukerberklari chiqsa!
+
+[Havola](https://nodirbek.uz/2019/11/ozbekistonda-axborot-texnologiyalarni-orni/)
