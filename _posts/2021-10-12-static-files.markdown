@@ -50,3 +50,5 @@ To start run the following command: docker-compose up -d.
 **3-option**: Recently, [Cloudflare](https://blog.cloudflare.com/introducing-r2-object-storage/){:target="_blank"} launched its object storage service at a very inexpensive price.
 
 For now, I know those solutions, if you have a better approach, let me know in the comments.
+
+[Link](https://ergashevn.blogspot.com/2021/10/serving-static-files.html){:target="_blank"}
