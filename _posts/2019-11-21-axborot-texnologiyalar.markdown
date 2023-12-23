@@ -35,16 +35,16 @@ Axborot texnologiyalar sezilarli tarzda rivojlanmoqda desak bu televideniyalarda
 
 18-oktabr kuni Xan akademiyasining o’zbek tilidagi talqini taqdim etildi. Bu dunyo bo’ylab bepul onlayn ta’lim beradigan platformadir. Umid qilamizki, kelajakda bu o’zbek tilidagi “tutorial” ya’ni darslarga boy bo’lgan resurs markaz bo’ladi.
 
-[xanakademiyasi.uz](https://www.xanakademiyasi.uz/)
+[xanakademiyasi.uz](https://www.xanakademiyasi.uz/){:target="_blank"}
 
 # 1 million o’zbek dasturchilari
 
 ![uzbekcoders](/assets/2019-11-21-axborot-texnologiyalar/uzbekcoders.jpg)
 
-21-noyabrda esa Bir million o’zbek dasturchilari shiori ostidagi dastur taqdim etildi. Bu dastur Birlashgan Arablar Amirligi bilan hamkorlikda ishga tushirildi. Bu sayt ham bepul dasturlash tillari, kompyuter bo’yicha onlayn bepul saytidir. [Uzbekcoder.uz](http://uzbekcoders.uz/) saytidan o’tib 4 xil yo’nalishda bepul darslar olish mumkin. Hozircha darslar o’zbek tilida mavjud emas.
+21-noyabrda esa Bir million o’zbek dasturchilari shiori ostidagi dastur taqdim etildi. Bu dastur Birlashgan Arablar Amirligi bilan hamkorlikda ishga tushirildi. Bu sayt ham bepul dasturlash tillari, kompyuter bo’yicha onlayn bepul saytidir. [Uzbekcoder.uz](http://uzbekcoders.uz/){:target="_blank"} saytidan o’tib 4 xil yo’nalishda bepul darslar olish mumkin. Hozircha darslar o’zbek tilida mavjud emas.
 
 ---
 
 Maqolalani yakunida axborot texnologiya bilan yanada tezroq rijovlashgan davlatlar qatoriga qo’shilish imkon borligini, yoshlarni dasturlash va kompyuter sohasida qiziqishlarini oshirish kerakligini aytmoqchiman. Zora, yaqin kunlarda o’zbek Stiv Jobsi yoki Mark Zukerberklari chiqsa!
 
-[Havola](https://nodirbek.uz/2019/11/ozbekistonda-axborot-texnologiyalarni-orni/)
+[Havola](https://nodirbek.uz/2019/11/ozbekistonda-axborot-texnologiyalarni-orni/){:target="_blank"}

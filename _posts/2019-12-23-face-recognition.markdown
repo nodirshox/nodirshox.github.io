@@ -49,4 +49,4 @@ Manba:
 - [https://github.com/WebDevSimplified/Face-Detection-JavaScript](https://github.com/WebDevSimplified/Face-Detection-JavaScript){:target="_blank"}
 - [https://youtu.be/CVClHLwv-4I](https://youtu.be/CVClHLwv-4I){:target="_blank"}
 
-[Havola](https://nodirbek.uz/2019/12/dasturlash-orqali-yuzni-tanish-texnologiyasi-face-recognition/)
+[Havola](https://nodirbek.uz/2019/12/dasturlash-orqali-yuzni-tanish-texnologiyasi-face-recognition/){:target="_blank"}

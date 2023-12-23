@@ -209,8 +209,8 @@ Shuni ham aytib o’tish kerakki, boshqa universitetlari ham mavjud. Ushbu unive
 
 Abituriyentlar o’rtasida universitetlar to’g’risida fikr almashish uchun Telegram tarmog’ida guruh ochdim.
 
-[Guruhga qo'shilish](https://t.me/+Jsd0wvFQtAdlMzZi)
+[Guruhga qo'shilish](https://t.me/+Jsd0wvFQtAdlMzZi){:target="_blank"}
 
 ---
 
-[Havola](https://nodirbek.uz/2019/11/ozbekistondagi-xorijiy-universitetlar-filiallari/)
+[Havola](https://nodirbek.uz/2019/11/ozbekistondagi-xorijiy-universitetlar-filiallari/){:target="_blank"}
