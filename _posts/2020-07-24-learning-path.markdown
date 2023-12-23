@@ -5,7 +5,7 @@ categories: ["tutorial", "goal"]
 permalink: /learning-path
 ---
 
-![Algoritm](/assets/2020-07-24-learning-path/path.jpg)
+![Path](/assets/2020-07-24-learning-path/path.jpg)
 
 Okay, my goal - work as software engineer at Google. Currently, I do not have such talent, skill or knowledge for to finish goal. That path it not easy. But, it is possible to achieve.
 
