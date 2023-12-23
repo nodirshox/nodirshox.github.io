@@ -9,7 +9,7 @@ Hozirgi kunda vaqt eng bebaho narsadir. Hech kim bir kunda 25-soatni yarata olma
 
 “MFaktor”ning [31-sonida](https://youtu.be/7zHB6rDYXcc){:target="_blank"} Otabek Mahkamov “Time management” haqida gapirdi. Ushbu videodan vaqtni qanday to’g’ri taqsimlash yo’llarini o’rganib oldim va shu haqida qisqacha yozaman.
 
-# Harakatlaringiz rejalashtiring
+# Harakatlaringizni rejalashtiring
 
 Bu juda oddiy. Ertangi kuningiz uchun bajarish kerak bo’lgan ishlarni daftarga yozib chiqing. Ushbu ishlarni 4 guruhga bo’ling. Bu guruhlar quyidagicha:
 
