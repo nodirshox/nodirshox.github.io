@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dasturchilar uchun Amerikada o'qish va ishlash imkoni beruvchi dastur"
-categories: ["self-improvement", "programming"]
+categories: ["self-improvement", "programming", "education"]
 permalink: /dasturchilar-uchun-amerikda-oqish-va-ishlash
 ---
 
