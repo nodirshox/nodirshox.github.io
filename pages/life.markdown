@@ -47,7 +47,12 @@ I am going to log my life in this page. In future, when I look back my life, I w
 
 2021 June - 2022 March - I started working at Epam System company.
 
+2021 October - I lost my friend Khurshid
+
 2022 May - 2023 February - I started studying for master's degre at MIU. I lived at Fairfield, Iowa state in U.S.A.
 
+2023 Aprel - I joined as software engineer to company Zoftify. 
+
 ---
+
 continued...

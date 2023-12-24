@@ -19,10 +19,18 @@ permalink: /resume/
 ---
 [Email](mailto:nodirbek.ergashev34@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nodirbekergashev/) | [Github](https://github.com/nodirshox)
 
-Software Engineer with more than 1.5 years of experience in NodeJS, primarily working on backend API services, and also interested in DevOps operations. I am able to work well both in a team environment as well as using my own initiative.
+Software Engineer with more than 2.5+ years of experience in NodeJS, primarily working on backend API services, and also interested in DevOps operations. I am able to work well both in a team environment as well as using my own initiative.
 
 # EXPERIENCE
 ---
+**Zoftify, Apr 2023 – Now<br>Software Engineer**
+
+- Creating Rest API using Nest JS.
+- Designing PostgreSQL schemas using Prisma ORM.
+- Collaborating with Backend, Frontend, and Mobile developers.
+- Integrated Apple’s and Google’s ”in-app purchase subscription” with backend.
+- Reduced CI pipeline duration by 15% by applying the Alpine version of NodeJS.
+
 **EPAM Systems, Jun 2021 – Mar 2022<br>Software Engineer**
 
 - Created REST API Web Services according to business requirements and documented with Swagger.
