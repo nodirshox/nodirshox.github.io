@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Qiziqish"
+categories: ["tutorial", "programming"]
+permalink: /qiziqish
+---
+
+2012-2013 yillarda, 7-sinfda o'qish davrim edi. Kompyuter o'yinlarini o'ynab, vaqt o'tkazib yurardik. Informatika o'qtuvchimiz o'zbekcha "Photoshop" va "HTML va CSS" darsliklarini tashib bergandi. Ikkala darsliklarni ham qiziqib o'rgandim. Shu darsliklar sabab, internetda mobile sahifalar yaratishni o'rgandim. "Uzmob" nomli forumda aktiv bo'lgandim. Bu paytlari mobil internet juda past va "sensorlik" telefon lar ham yo'q edi. Simli internet ham juda sekin "200MB" lik faylni yuklash uchun 1 soat kutishga to'g'ri kelardi va juda qimmat. Faqatgina Tas-ix da cheksiz ishlatsa bo'lardi. Maktab tugatguncha shunaqa ishlar qilib rosa qiziq kechgan.
+
+Kollejda 1-kurs paytimizda Dasturlashni o'rgatadigan Koreyaning Inha universiteti ish boshlanganini eshitdim. Va barcha qiziqishlarimni to'xtatib universitet fanlari uchun 3 yil o'qidim. Matematik, Fizika va Ingliz tililarni qo'shimcha darslarga borib o'rgandim. "Bu fanlarni yuksak o'rgandim" deya olmayman, lekin Inhani imtihonida 41/100 baho olib 145 o'rinda qabul qilindim. 
+
+4 yil kompyuter asoslarini o'rgandik. Hozirda "Epam systems" kompaniyasida dasturchilik qilmoqdaman. 
+
+Barchasi o'sha payti o'qtuvchimiz tashib bergan video sabablari deb o'ylayman. Chunki qiziqishimni shu sohada ko'rganman. Hozircha shular...
+
+[Havola](https://t.me/nodir_adventure/243){:target="_blank"}
