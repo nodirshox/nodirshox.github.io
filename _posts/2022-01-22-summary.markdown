@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Qiziqish"
-categories: ["tutorial", "programming"]
+categories: ["programming", "self-improvement"]
 permalink: /qiziqish
 ---
 

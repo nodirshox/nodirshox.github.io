@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I transformed my life in pandemic"
-categories: ["about"]
+categories: ["about", "self-improvement"]
 permalink: /how-I-transformed-my-life-in-pandemic
 ---
 

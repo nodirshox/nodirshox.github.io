@@ -5,7 +5,7 @@ categories: ["self-improvement", "programming", "education"]
 permalink: /dasturchilar-uchun-amerikda-oqish-va-ishlash
 ---
 
-![Last day of work](/assets/2022-05-16-maharishi/miu.jpeg)
+![MIU](/assets/2022-05-16-maharishi/miu.jpeg)
 
 Yaqinda o'zim ta'lim olishni boshlagan universitet haqida yozmoqchiman. Bu dastur bakalavr diplomi bor va dasturlashda ozroq "experience" borlar uchun.
 
