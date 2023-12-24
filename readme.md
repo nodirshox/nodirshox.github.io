@@ -1,3 +1,3 @@
 # My personal blog
 
-[ergashev.nodirbek.uz](https://ergashev.nodirbek.uz)
+[blog.nodirbek.uz](https://blog.nodirbek.uz)
