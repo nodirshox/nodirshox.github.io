@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Backup haqida"
+categories: ["tutorial", "programming"]
+permalink: /backup-tutorial
+---
+
+Backup - bu ma'lumotlarni kelajak uchun saqlab qo'yish uchun bajariladigan ish. Asosan "backup" lar ma'lumot omboridan (database) olinadi. Har doim backup qilib turish, "best practice" hisoblanadi. Agar sizning dasturingizda nimadir xatolik chiqib, barcha ma'lumotlaringiz o'chib ketdi va ularni qayta tiklab bo'lmaydi. Shunda sizda backup mavjud bo'lmasa, qimmatli ma'lumotlarni yoqotib qo'yishingiz mumkin 🧨. Hattoki siz avtomatik har kuni yoki belgilangan vaqtda backup qilib turadigan "bash script" yozsangiz bo'ladi. Shunda sizda har kunlik arxivlar mavjud bo'ladi. Fayllar ko'payib ketmasligi uchun eng so'ngi 10 tasini saqlab qo'ysangiz bo'ladi.
+
+Kichik real hikoya
+Menda 2 ta database bor edi. 1 tasi asosiy. 2-database esa yangi edi va uni o'chirmoqchi bo'ldim. Serverda xatolik chiqib, uni o'chirishga qo'ymadi. Va qo'llab quvvatlash markaziga 2-databaseni o'chirib berish kerakligini yozdi. Ular esa e'tibor bermay ikkovini ham o'chirib yuboribdi 😰. Bunday bo'lishini bilgandek, ularga yozishdan oldan backup olgan edim 😅 va tezda qayta yuklab qo'ydim.
+ 
+🤔 Sizchi qancha muddatda va qaysi usulda backup qilasiz?
+
+[Manba](https://t.me/nodir_adventure/190){:target="_blank"}
+
+![Backup](/assets/2021-09-06-backup/backup.jpeg)
