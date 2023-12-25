@@ -12,6 +12,6 @@ Menda 2 ta database bor edi. 1 tasi asosiy. 2-database esa yangi edi va uni o'ch
  
 🤔 Sizchi qancha muddatda va qaysi usulda backup qilasiz?
 
-[Manba](https://t.me/nodir_adventure/190){:target="_blank"}
-
 ![Backup](/assets/2021-09-06-backup/backup.jpeg)
+
+[Manba](https://t.me/nodir_adventure/190){:target="_blank"}
