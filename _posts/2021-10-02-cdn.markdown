@@ -1,0 +1,20 @@
+---
+layout: post
+title: "CDN - Content Delivery network"
+categories: ["programming", "tutorial"]
+permalink: /cdn-description
+---
+
+We use CDN server to serve files to web users. One of the famous server is AWS S3 with low cost. Those files any type: image, music, video, ...
+
+When you creating S3, you need to select location based on your audience location. If your users in Asia, but you selected USA server location, latency will be high. Not recommended.
+
+Problem: If your users from all over the world and you need low latency, here Solution:
+
+AWS CloudFront - is distributed server/network. When you enable it, your S3 files cached across 136 locations. When users requests file, network delivery from nearly user's location with low latency.
+
+Price is based on bandwidth and little bit high.
+
+Here full article: [link](https://gauravguptacloud.medium.com/aws-cdn-content-delivery-network-cloudfront-with-hands-on-e074b0e77166){:target="_blank"}
+
+[Link](https://t.me/nodir_adventure/200){:target="_blank"}
