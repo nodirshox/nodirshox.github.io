@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Dastuchilarga ingliz tili kerakmi?"
+title: "Dasturchilarga ingliz tili kerakmi?"
 categories: ["tutorial", "programming"]
-permalink: /dasurchiga-ingliz-tili-kerakmi
+permalink: /dasturchiga-ingliz-tili-kerakmi
 ---
 
 ![Talk](/assets/2023-05-15-ingliz-tili/talk.jpg)
 
-Dastuchilarga ingliz tili kerakmi?
+Dasturchilarga ingliz tili kerakmi?
 
 Javob: Ha, albatta!
 
