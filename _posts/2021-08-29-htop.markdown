@@ -1,0 +1,22 @@
+---
+layout: post
+title: "htop - dasturi"
+categories: ["programming", "tutorial", "devops"]
+permalink: /htop-program
+---
+
+![htop](/assets/2021-08-29-htop/htop.jpeg)
+
+Ubuntu Operation tizimi uchun terminal orqali tizimga tushayotgan yuklamani ko'rish uchun 'tool'. Ushbu dasturni asosan server holatini ko'rish uchun ishlataman. Kompyuteringiz o'rnatish uchun uchun buyruq(command):
+
+```
+sudo apt install htop
+```
+
+Dasturga kirish uchun quyidagi buyruqni terminalga yozing:
+
+```
+htop
+```
+
+[Havola](https://t.me/nodir_adventure/185){:target="_blank"}
