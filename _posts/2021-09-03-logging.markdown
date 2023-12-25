@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Logging haqida"
+categories: ["programming"]
+permalink: /logging
+---
+
+![Logging](/assets/2021-09-03-logging/logging.jpeg)
+
+💻 Log - bu sizning sistemangizga kelayotgan chaqiruvlar (request), javob (response) va turli xatoliklarni kelajakda analiz qilish yoki "debug" qilish uchun so'rovlar tarixi. Agar siz log yozmasangiz yozgan kodingizni qaysi qismida xatolik ro'y berganini bilmay qolishingiz mumkin. Ayniqsa, "production" da chiqqan xatolikni tez va oson yechingizda yordam beradi.
+
+Log yozish uchun tayyor yechimlar
+
+1. Node JS uchun - [Winston](https://www.npmjs.com/package/winston){:target="_blank"} package eng mashxurlaridan biri. 
+
+2. AWS Cloud Watch. Agar siz AWS servizlaridan foydalangiz, tayyor yechim bu AWS Cloud Watch. Bu orqali siz o'tgan tarixda bo'lgan "log" lar metrikasini ko'ringiz mumkin.
+
+3. Grafana - Katta sistemalar uchun markazlashga log sistemasi. Bu sistema orqali yana serveringizga tushayotgan yuklamalarni ham kuzatib borsangiz bo'ladi. Bu yerda [playground](https://play.grafana.org/){:target="_blank"} orqali tekshirib ko'rsangiz bo'ladi.
+
+🙋‍♂️ Siz log yozish uchun qaysi birini ishlatasiz?
+
+[Havola](https://t.me/nodir_adventure/188){:target="_blank"}
