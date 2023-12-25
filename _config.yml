@@ -23,8 +23,8 @@ email: nodirbek.ergashev34@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineer who loves solving the problems
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ergashev.nodirbek.uz" # the base hostname & protocol for your site, e.g. http://example.com
-enforce_ssl: ergashev.nodirbek.uz
+url: "https://blog.nodirbek.uz" # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: blog.nodirbek.uz
 github_username:  nodirshox
 # Build settings
 theme: minima
