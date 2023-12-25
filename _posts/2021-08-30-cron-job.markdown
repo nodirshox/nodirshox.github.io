@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Cron job haqida"
+categories: ["programming", "tutorial"]
+permalink: /cron-job
+---
+
+Ushbu terminni ba'zida eshitib qolamiz. Keling "cron job" nimaligi yaxshi tushinib olamiz. "Cron job" bu ma'lum rejim va belgilangan vaqtda ishga tushadigan ish. Misol uchun, sizning CRM dasturingiz bor. Dastur har kuni kechasi soat 12 da barcha yangi tushgan buyurtmalar holatini tekshirib chiqadi yoki tovar narxlarini o'zgartirib turadi. Buni faqat qandaydir dastur tuzib, har kuni soat 00:00 da ishga tushiriladi.
+
+Yana bir misol sizda boshqa dasturning "3rd party API" bor va uni har kuni yoki har soatda API dan murojaat qilasiz va qaytgan ma'lumotlarni o'zingingiz dasturingidagi ma'lumotlar omboriga saqlab qo'yasiz.
+
+# Bonus
+
+1. "Heroku" ni bepul tarifida dastur har 5-6 minutda uhlab qoladi. Shuni cron job orqali uhlab qolmaydigan qilsa bo'ladi. [cron-job.org](https://cron-job.org/en/){:target="_blank"} orqali profil ochasiz va dasturingiz bitta "GET" json method ochib qo'yasiz va cron-job sayti orqali har 1-2 daqiqada sizning heroku app ga "zapros" berib turadi, natijada dasturingiz hech uhlab qolmaydi 🥳. Cron job kechasi ishlamaydigan qilib "schedule" qilib qo'ysangiz, heroku profilingizdagi bir oy uchun berilgan bepul daqiqalar tugab qolmaydi.
+
+2. Dasturlaringizda har 10 daqiqaga cron-job orqali buyruqlar berib turing. Agar sizning dasturing ishlamay qolsa "500" javob qaytadi yoki javob bera olmay qoladi. Va siz buni email orqali dasturingiz ishlamayotgani haqida xabar olasiz 🤟. Shunda dastur 24/7 ishlayotganidan ko'nglingiz to'ladi.
+
+[Havola](https://t.me/nodir_adventure/186){:target="_blank"}
