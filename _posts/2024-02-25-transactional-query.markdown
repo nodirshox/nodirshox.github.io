@@ -33,7 +33,7 @@ Sample Transactions
 
 ```
 
-**Expected Final Wallet Balance**: 75
+**Expected Final Wallet Balance**: 25
 
 To implement this functionality, I developed a function to insert individual transactions into the database and update the wallet balance accordingly:
 
