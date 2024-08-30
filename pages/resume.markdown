@@ -19,7 +19,7 @@ permalink: /resume/
 ---
 [Email](mailto:nodirbek.ergashev34@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nodirbekergashev/) | [Github](https://github.com/nodirshox)
 
-Software Engineer with more than 2.5+ years of experience in NodeJS, primarily working on backend API services, and also interested in DevOps operations. I am able to work well both in a team environment as well as using my own initiative.
+Software Engineer with more than 3+ years of experience in NodeJS, primarily working on backend API services, and also interested in DevOps operations. I am able to work well both in a team environment as well as using my own initiative.
 
 # EXPERIENCE
 ---
